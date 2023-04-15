@@ -1,5 +1,5 @@
-#3CG
-#Member
- #1NguyenThiThuHa
- #2HuynhNgoMyVy
- #3PhanLuongThuyDuong
+This is a app Note
+3CG Teams
+ 1. Nguyễn Thị Thu Hà
+ 2. Phan Lương Thùy Dương
+ 3. Huỳnh Ngô Mỹ Vy
